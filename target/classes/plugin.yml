@@ -1,0 +1,20 @@
+name: Geocache
+version: 2.0
+main: nl.scoutcraft.geocache.Geocache
+api-version: 1.16
+author: Acixsi
+description: Geocache
+website: https://scoutcraft.nl
+commands:
+  geocache:
+    usage: /<command>
+    aliases: [geo]
+  geocache wand:
+    usage: /<command>
+    aliases: [geo wand]
+  geocache menu:
+    usage: /<command>
+    aliases: [geo menu]
+  geocache help:
+    usage: /<command>
+    aliases: [geo help]
